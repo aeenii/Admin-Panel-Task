@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Mongoose compiled models (optional)
+*.bak
